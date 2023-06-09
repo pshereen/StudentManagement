@@ -1,7 +1,7 @@
 # StudentRecordManagement
 Student Record Management Using MERN Stack
 
-# Tutorial from https://www.youtube.com/watch?v=-Vd5RRZXIyo&t=2659s
+
 
 Build a school management system using MERN Stack.
 
